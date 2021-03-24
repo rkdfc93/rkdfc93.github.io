@@ -3,7 +3,7 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Hydeout
+title:            Blog
 tagline:          'A Jekyll theme'
 description:      'Blog'
 url:              https://rkdfc93.github.io
