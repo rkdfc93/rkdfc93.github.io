@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            Blog
 tagline:          'A Jekyll theme'
-description:      'Blog'
+description:      '공부한 내용을 정리합니다.'
 url:              https://rkdfc93.github.io
 baseurl:          ''
                   # the optional subpath of your site, e.g. "/blog"
